@@ -21,7 +21,7 @@ to develop it using your language of choice!
 Operational Issues, PRs, Dashboard, & Projects, Operational Notifications,
 Operational Gists, and Operational GitHub Pages as a list in the main app
 window.
--   [x] User can retrieve the most recent status from the GitHub Status web
+-   [ ] User can retrieve the most recent status from the GitHub Status web
 site by clicking a 'Get Status' button.
 
 ## Bonus features
